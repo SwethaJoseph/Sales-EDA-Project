@@ -17,7 +17,7 @@ The dataset consists of 51,290 records from the year 2015, detailing sales infor
 * Product Category, Product Name, Sales, Quantity, Discount, Profit
 * Shipping Cost, Order Priority, Customer ID, Customer Name
 * City, State, Country, Region, and Months
-* 
+  
 ## Analysis Summary
 * Sales & Profit Trends: Identified December as the peak month for both sales and profit, with lower performance in February.
 * Regional Profit Analysis: Fashion was the top-performing category across most regions, with varying performance for other categories like Electronics and Home & Furniture.
@@ -27,10 +27,10 @@ The dataset consists of 51,290 records from the year 2015, detailing sales infor
 * Statistical Findings: Both sales and profits displayed considerable variability, indicating diverse performance across products and regions.
   
 ## Conclusion & Recommendations
-Focus on Targeted Marketing: Enhance marketing strategies in underperforming regions and product categories.
-Supply Chain Optimization: Improve supply chain efficiency to meet demand in high-performing regions.
-Customer Engagement: Continue focusing on the Consumer segment while exploring growth opportunities in Corporate and Home Office segments.
-Product Strategy: Tailor product offerings to match specific regional demands and consumer preferences.
+* Focus on Targeted Marketing: Enhance marketing strategies in underperforming regions and product categories.
+* Supply Chain Optimization: Improve supply chain efficiency to meet demand in high-performing regions.
+* Customer Engagement: Continue focusing on the Consumer segment while exploring growth opportunities in Corporate and Home Office segments.
+* Product Strategy: Tailor product offerings to match specific regional demands and consumer preferences.
 
 ## Tools Used
 * Microsoft Excel: For data cleaning, preparation, and analysis.
